@@ -1,3 +1,9 @@
+# Dependencies
 node_modules
 
+# Database
 *.db
+
+# Enviroment Variables
+.env
+.env.local

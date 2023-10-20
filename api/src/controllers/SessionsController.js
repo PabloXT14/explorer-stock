@@ -29,7 +29,14 @@ class SessionsController {
 
     delete user.password;
 
-    response.status(201).json({ token, user });
+    response.cookie("token", token, {
+      httpOnly: true,
+      sameSite: 'none',
+      secure: true,
+      maxAge: 1000 * 60 * 15, // 15 minutes
+    })
+
+    response.status(201).json({ user });
   }
 }
 

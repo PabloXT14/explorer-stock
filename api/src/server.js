@@ -1,14 +1,20 @@
 require("express-async-errors");
+require("dotenv").config();
 
 const cors = require("cors");
 const express = require("express");
+const cookieParser = require("cookie-parser");
 const routes = require("./routes");
 
 const AppError = require("./utils/AppError");
 
 const app = express();
 app.use(express.json());
-app.use(cors());
+app.use(cookieParser());
+app.use(cors({
+  origin: process.env.ENABLED_CORS.split(";") ?? ["*"],
+  credentials: true,// to working with cookies
+}));
 
 app.use(routes);
 
