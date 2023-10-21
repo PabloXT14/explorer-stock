@@ -137,18 +137,18 @@ $ npm run dev
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-<!-- #### **Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Server**  ([NodeJS](https://nodejs.org/en/)
 
--   **[Fastify](https://www.fastify.io/)**
--   **[Zod](https://github.com/colinhacks/zod)**
--   **[Prisma](https://www.prisma.io/)**
--   **[PostgreSQL](https://www.postgresql.org/)**
--   **[OpenAI](https://github.com/openai/openai-node)**
--   **[Vercel AI SDK](https://github.com/vercel/ai)**
+-   **[Express](https://expressjs.com/pt-br/)**
+-   **[Knex](https://knexjs.org/)**
+-   **[SQLite](https://www.sqlite.org/index.html)**
+-   **[bcryptjs](https://www.npmjs.com/package/bcryptjs)**
+-   **[jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)**
+-   **[cookie-parser](https://www.npmjs.com/package/cookie-parser)**
 
 > 📘 **Info**
 >
-> Para mais detalhes das dependências gerais do front-end veja o arquivo [package.json](https://github.com/PabloXT14/explorer-stock/blob/main/api/package.json) -->
+> Para mais detalhes das dependências gerais do front-end veja o arquivo [package.json](https://github.com/PabloXT14/explorer-stock/blob/main/api/package.json)
 
 <!-- #### **Website**  ([Vite](https://vitejs.dev/)  +  [TypeScript](https://www.typescriptlang.org/))
 
