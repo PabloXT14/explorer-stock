@@ -1,8 +1,9 @@
 <h1 align="center">
   <img
-    src=".github/assets/explorer-stock-logo.svg"
+    src=".github/assets/logo.svg"
     alt="explorer stock logo"
     title="explorer stock logo"
+    width="30px"
   />
   Explorer Stock
 </h1>
@@ -44,9 +45,9 @@
 
 ## 💻 About
 
-<!-- O `Upload.ai` é uma aplicação que possibilita realizar upload de videos e por meio de IA, criar automaticamente títulos chamativos e descrições com um boa indexação.
+O Explorer Stock é uma aplicação simples de estoque, sem muitas funcionalidades e usabilidade pois seu intuito principal somente treinar o conceito de `Autenticação e Autorização` de forma profissional e segura entre o `Front-End` e `Back-End` da aplicação.
 
-O projeto foi desenvolvido durante o evento **NLW - Next Level Week** oferecida pela [Rocketseat](https://www.rocketseat.com.br/). O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana. -->
+Vale ressaltar que este projeto foi desenvolvido como parte do curso/trilha Explorer oferecido pela Rocketseat.
 
 ---
 
@@ -150,19 +151,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 >
 > Para mais detalhes das dependências gerais do front-end veja o arquivo [package.json](https://github.com/PabloXT14/explorer-stock/blob/main/api/package.json)
 
-<!-- #### **Website**  ([Vite](https://vitejs.dev/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Website**  ([Vite](https://vitejs.dev/)  +  [TypeScript](https://www.typescriptlang.org/))
 
--   **[Shadcn/UI](https://ui.shadcn.com/)**
--   **[TailwindCSS](https://tailwindcss.com/)**
--   **[RadixUI](https://www.radix-ui.com/)**
--   **[Lucide React](https://lucide.dev/)**
--   **[FFMpeg](https://ffmpegwasm.netlify.app/docs/overview)**
--   **[Axios](https://github.com/axios/axios)**
--   **[Vercel AI SDK](https://github.com/vercel/ai)**
+-   **[Styled Components](https://styled-components.com/)**
+-   **[React Icons](https://react-icons.github.io/react-icons/)**
+-   **[Axios](https://axios-http.com/ptbr/)**
 
 > 📘 **Info**
 >
-> Para mais detalhes das dependências gerais do back-end veja o arquivo [package.json](https://github.com/PabloXT14/explorer-stock/blob/main/web/package.json) -->
+> Para mais detalhes das dependências gerais do back-end veja o arquivo [package.json](https://github.com/PabloXT14/explorer-stock/blob/main/web/package.json)
 
 ---
 
