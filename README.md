@@ -29,7 +29,7 @@
 </p>
 
 <h4 align="center"> 
-	🚧 Aplicação em desenvolvimento 🚧
+	🚀 Aplicação Finalizada 🚀
 </h4>
 
 <p align="center">
@@ -55,23 +55,71 @@ Vale ressaltar que este projeto foi desenvolvido como parte do curso/trilha Expl
 
 Veja uma demonstração visual das principais telas da aplicação a seguir.
 
-<!-- <p align="center">
+### Login
+
+<p align="center">
   <img
-    src=".github/assets/web-demonstration-01.png"
-    alt="Layout Web Demonstration 01"
-    title="Layout Web Demonstration 01" 
+    src=".github/assets/login-page.png"
+    alt="Login Page Demonstration"
+    title="Login Page Demonstration" 
     width="100%"
   >
 </p>
 
+### Cadastro
+
 <p align="center">
   <img
-    src=".github/assets/web-demonstration-02.png"
-    alt="Layout Web Demonstration 02"
-    title="Layout Web Demonstration 02" 
+    src=".github/assets/register-page.png"
+    alt="Register Page Demonstration"
+    title="Register Page Demonstration" 
     width="100%"
   >
-</p> -->
+</p>
+
+### Início
+
+<p align="center">
+  <img
+    src=".github/assets/home-page.png"
+    alt="Home Page Demonstration"
+    title="Home Page Demonstration" 
+    width="100%"
+  >
+</p>
+
+### Produtos
+
+<p align="center">
+  <img
+    src=".github/assets/products-page.png"
+    alt="Products Page Demonstration"
+    title="Products Page Demonstration" 
+    width="100%"
+  >
+</p>
+
+### Fornecedores
+
+<p align="center">
+  <img
+    src=".github/assets/suppliers-page.png"
+    alt="Suppliers Page Demonstration"
+    title="Suppliers Page Demonstration" 
+    width="100%"
+  >
+</p>
+
+### Relatório de Vendas
+
+<p align="center">
+  <img
+    src=".github/assets/sales-report-page.png"
+    alt="Sales Report Page Demonstration"
+    title="Sales Report Demonstration" 
+    width="100%"
+  >
+</p>
 
 ---
 
